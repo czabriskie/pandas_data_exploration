@@ -12,5 +12,5 @@ Thanks!
 
 Bill
 
-I will specifically be looking for one jupyter notebook that all members of the team have worked on. I will specifically be checking what merges each person made to contribute to the project (Please don't just email each other code and copy and paste in one document. This will be good practice actually using Git to collaborate with others)
+I will specifically be looking for one jupyter notebook that all members of the team have worked on. I will be checking what merges each person made to contribute to the project (Please don't just email each other code and copy and paste in one document. This will be good practice actually using Git to collaborate with others)
 
